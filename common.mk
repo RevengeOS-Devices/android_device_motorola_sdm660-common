@@ -294,7 +294,7 @@ PRODUCT_PACKAGES += \
 
 # Power
 PRODUCT_PACKAGES += \
-    android.hardware.power-service-qti \
+    android.hardware.power@1.3-service.moto_sdm660-libperfmgr
     vendor.qti.hardware.perf@2.0.vendor
 
 # Protobuf
